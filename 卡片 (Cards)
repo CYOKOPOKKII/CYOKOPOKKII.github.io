@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            height: 165px;
+        }
+    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="card" style="width: 18rem;">
+                <img src="https://heho.com.tw/wp-content/uploads/2019/08/0812-%E8%B2%93%E5%92%AA_02.png" class="card-img-top box rounded" alt="...">
+                <div class="card-body">
+                  <p class="card-text">M梅特林克講過一段深奧的話，真正的愛將最浮淺輕佻的人也拉入了生活的中心，其餘一切皆是圍牆在倒塌，生活打開了大門。</p>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img src="https://catchattw.com/wp-content/uploads/%E8%B2%93%E8%AB%87%E7%A4%BE%E7%9A%84%E8%87%89%E6%9B%B8%E7%A4%BE%E5%9C%98-8.png" class="card-img-top box rounded" alt="...">
+                <div class="card-body">
+                  <p class="card-text">他們的沉默抵得上他們隱藏的神。如果他們在第一次沉默中不能互相理解，他們的心靈就能互愛，因為沈默是根本不變的。</p>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="card" style="width: 18rem;">
+                <img src="https://s3-ap-northeast-1.amazonaws.com/hopenglish/wp/wp-content/uploads/2017/01/%E5%B0%8F%E8%B2%93%E8%B2%93-1.jpg" class="card-img-top box rounded" alt="...">
+                <div class="card-body">
+                  <p class="card-text">它可以在兩個心靈之間升上降下，但其本質永不改變; 直到情人們死亡時，它仍將具有第一次進入洞房時的那種姿勢、形態和力量。這不禁令我深思。</p>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img src="https://cc-image-resizer.cwg.tw/resize/uri/https%3A%2F%2Fi.cheers.com.tw%2Farticle%2F202009%2Farticle-5f69cc0b6c91f.jpg/?w=810&h=543&fit=fill" class="card-img-top box rounded" alt="...">
+                <div class="card-body">
+                  <p class="card-text">所謂貓，關鍵是貓需要如何解讀。B11035017 馮婉婷。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" 
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
+        </script>
+</body>
+
+</html>
